@@ -4,6 +4,8 @@
 
 [Bark](https://github.com/Finb/Bark) is an iOS App which allows you to push customed notifications to your iPhone.
 
+[![](https://main.qcloudimg.com/raw/67f5a389f1ac6f3b4d04c7256438e44f.svg)](https://console.cloud.tencent.com/tcb/env/index?action=CreateAndDeployCloudBaseProject&appUrl=https%3A%2F%2Fgithub.com%2Fbeader%2Fbark-server&workDir=deploy%2Fcloudbaserun&appName=bark-server)
+
 
 ## Table of Contents
 

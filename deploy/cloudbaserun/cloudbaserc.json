@@ -1,0 +1,17 @@
+{
+  "envId": "{{env.ENV_ID}}",
+  "version": "2.0",
+  "framework": {
+    "name": "bark-server",
+    "plugins": {
+      "container": {
+        "use": "@cloudbase/framework-plugin-container",
+        "inputs": {
+          "serviceName": "bark-server",
+          "servicePath": "/bark-server",
+          "containerPort": 8080
+        }
+      }
+    }
+  }
+}
